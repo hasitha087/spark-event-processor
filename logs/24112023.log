@@ -1,0 +1,12 @@
+---------------2023-11-24---------------
+Duplicate record count: 1
+Number of partitions: 1
++---+-------------------------------------------+
+|id |settings                                   |
++---+-------------------------------------------+
+|1  |{background -> TRUE, notification -> FALSE}|
+|2  |{background -> notDetermined}              |
+|3  |{refresh -> 4}                             |
+|4  |{yyyy -> TRUE}                             |
++---+-------------------------------------------+
+
